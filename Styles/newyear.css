@@ -213,7 +213,7 @@ main{
 .main4-img{
     margin-top: 60px;
     display: flex;
-    background-image: url('../images/resource/rectangle 2.png'),url('../images/resource/rectangle 1.png');;
+    background-image: url('../images/resource/Rectangle 2.png'),url('../images/resource/Rectangle 1.png');;
     background-repeat:no-repeat;
     background-position: bottom left,top right;
     background-size:100% 25%,auto;
